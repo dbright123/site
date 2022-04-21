@@ -70,7 +70,7 @@ export default function Contact() {
                                     <textarea className="form-control" name="message" rows="5" placeholder="Message" required></textarea>
                                 </div>
                                 
-                                <div className="text-center"><button type="submit" className="" >Send Message</button></div>
+                                <div className="text-center"><button type="submit" className="rounded-circle btn btn-outline-primary" >Send Message</button></div>
                             </form>
                         </div>
 
