@@ -9,6 +9,7 @@ import { unstable_useWebVitalsReport } from 'next/streaming'
 import FService from '../components/featured_services'
 import About from '../components/about'
 import Service from '../components/service'
+import Team from '../components/team'
 
 export default function Home() {
     unstable_useWebVitalsReport((data) => {
@@ -35,6 +36,7 @@ export default function Home() {
                 <FService />
                 <About />
                 <Service />
+                <Team />
             </main>
             <div id="preloader"></div>
             <a href="#" className="back-to-top d-flex align-items-center justify-content-center"><i className="bi bi-arrow-up-short"></i></a>
