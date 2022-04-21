@@ -2,24 +2,35 @@ export default function FService() {
     const content = [
         [
             "bi bi-router-fill",
-            "High Quality Internet Services",
-            `The internet has become an essential part of every business and our personal lives.
-             At Space Matrix Solutions we deliver High Quality Internet Services for all your Business
-            and Private needs`
+            "ENTERPRISE NETWORK SOLUTIONS",
+            `Space Matrix Solutions Int'l Ltd is a leading provider of consulting services and
+            technologies that enable our clients to realize real business value through the utilization of data Technology.
+            We pride ourselves on transforming problems into solutions. And we're very good at it. No matter how unique or complex the matter,
+            if it's possible we'll solve it. Our mission is to be recognized as a pacesetter in providing innovative, effective solutions to our customers.`
             
         ],
         [
-            "bi bi-file-code-fill",
-            "Web and Software Development",
-            `Every business needs software that help automate the business process, 
-            save time and increase productivity.
-            Our High-End software Development team would help you grow your business`
+            "bi bi-person-x",
+            "GENERAL IT CONSULTING SERVICES AND TRAINING",
+            `Our IT strategy and consulting services are your primary steps toward transforming your enterprise IT and improving your business efficiency.
+            Our experts have the requisite industry experience and best-in-class tools to assess your entire support operation.
+            We look at your IT support services holistically, identifying improvement areas that will have the best impact on employee productivity,
+            service levels, and customer satisfaction.`
         ],
         [
-            "bi bi-laptop",
-            "ICT Training",
-            `In our ever growing and changing technology enabled environment one must be up to date with the trend or be lost in the tides, 
-            that is why at Space Matrix Solutions we believe in constant human development through our modern and up to date training programs.`
+            "bi bi-bar-chart",
+            "INTERNET SERVICE PROVIDER",
+            `Partnering with Multiple Teleports, Satellite, and Fiber Network Operators and software providers locally and internationally,
+            we have the ability to deliver broadband internet and Â“State of the ArtÂ” software solution to any business organization around the world.
+            We also have fixed wireless networks deployed in Nekede, Mbonu Ojike, Concorde Hotel, and Ogbaku in Imo State, Nigeria,
+            providing Wi-Fi internet access to a wide number of users daily.`
+        ],
+        [
+            "bi bi-file-code-fill",
+            "MANAGEMENT SOFTWARE SOLUTIONS",
+            `We serve establishments with information technology by delivering sophisticated software solutions and high-quality services.
+            We identified the gap in quality customized software development services being provided within the market and came up with a mission of providing innovative,
+            leading-edge, customized software solutions to companies across industries.`
         ]
     ];
     return (

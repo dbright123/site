@@ -30,7 +30,7 @@ export default function About() {
                                 <li>
                                     <i className="bi bi-router-fill"></i>
                                     <div>
-                                        <h5>Our Mission</h5>
+                                        <h5>ENTERPRISE NETWORK SOLUTIONS</h5>
                                         <p>The internet has become an essential part of every business and our personal lives.
                                             At Space Matrix Solutions we deliver High Quality Internet Services for all your Business
                                             and Private needs</p>
@@ -39,7 +39,7 @@ export default function About() {
                                 <li>
                                     <i className="bi bi-file-code-fill"></i>
                                     <div>
-                                        <h5>Web and Software Development</h5>
+                                        <h5>MANAGEMENT SOFTWARE SOLUTIONS</h5>
                                         <p>Every business needs software that help automate the business process,
                                             save time and increase productivity.
                                             Our High-End software Development team would help you grow your business</p>
