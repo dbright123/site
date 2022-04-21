@@ -50,7 +50,7 @@ export default function Contact() {
 
                         <div className="col-lg-6 ">
                             <iframe className="mb-4 mb-lg-0 dFrame" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59925947.681075856!2d14.914031099999997!3d23.547259599999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104259353d5f055d%3A0x80b0a97e17271cf1!2sSpace%20Matrix%20Solutions%20International%20Limited!5e0!3m2!1sen!2sng!4v1650556756760!5m2!1sen!2sng" frameborder="0" allowfullscreen></iframe>
-                            
+            
                         </div>
 
                         <div className="col-lg-6">
