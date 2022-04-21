@@ -1,10 +1,10 @@
 import Image from "next/image"
 export default function About() {
     const desc = `
-        Space Matrix Solutions is a fast growing technology-focused company,
-        providing ICT solution to Enterprises, Schools and SMEs.
-        Our solution will offer your organisation the ability to connect to the rest of world,
-        access global resources and the ability to increase productivity by offering value added service to your clients.
+        At Space Matrix we strive to improve efficiency, increase quality, and faster turn-around time, at an affordable cost.
+        This results in a unique experience of cost-effective yet excellent solutions.
+        We manage our company with the utmost professionalism and maintain the very best degree of professional and private ethics.
+        We are here to serve you,and serve you well.
     `;
     return (
         <>
@@ -22,7 +22,7 @@ export default function About() {
                             <Image src="/about.jpg" className="img-fluid" width="2529" height="1944" alt="" />
                         </div>
                         <div className="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
-                            <h3>More about Space matrix.</h3>
+                            <h3>Our Mission</h3>
                             <p className="fst-italic">
                                 {desc}
                             </p>
@@ -30,7 +30,7 @@ export default function About() {
                                 <li>
                                     <i className="bi bi-router-fill"></i>
                                     <div>
-                                        <h5>High Quality Internet Services</h5>
+                                        <h5>Our Mission</h5>
                                         <p>The internet has become an essential part of every business and our personal lives.
                                             At Space Matrix Solutions we deliver High Quality Internet Services for all your Business
                                             and Private needs</p>
