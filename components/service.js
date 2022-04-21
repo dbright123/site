@@ -3,18 +3,18 @@ export default function Service() {
     const dataPlan = [
         [
             "/sport.png",
-            "Individual plan 5MBPS",
-            "N6500"
+            "Residential Plan",
+            "Click for more details"
         ],
         [
             "/bike.png",
-            "Small business plan 20MPBPS",
-            "N24,000"
+            "Small Business",
+            "Click for more details"
         ],
         [
             "/airplane.png",
-            "Big Enterprise plan 400MBPS",
-            "N200,000"
+            "Large Enterprise plan",
+            "Click for more details"
         ],
         [
             "",
