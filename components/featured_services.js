@@ -21,7 +21,7 @@ export default function FService() {
             "bi bi-bar-chart",
             "INTERNET SERVICE PROVIDER",
             `Partnering with Multiple Teleports, Satellite, and Fiber Network Operators and software providers locally and internationally,
-            we have the ability to deliver broadband internet and Â“State of the ArtÂ” software solution to any business organization around the world.
+            we have the ability to deliver broadband internet and “State of the Art” software solution to any business organization around the world.
             We also have fixed wireless networks deployed in Nekede, Mbonu Ojike, Concorde Hotel, and Ogbaku in Imo State, Nigeria,
             providing Wi-Fi internet access to a wide number of users daily.`
         ],
